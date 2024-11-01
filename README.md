@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **software engineering and I'm still improving myself.**
 
-- 💬 Ask me about Javascript **Javascript Flutter**
+- 💬 Ask me about  **Javascript Flutter**
 
 - 📫 How to reach me **Cihanhayta8080@gmail.com**
 
