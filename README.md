@@ -5,6 +5,6 @@
 - 🔮 I develop projects with React, Javascript & React Native.
 - 💬 Ask me about Javascript
 - 📫 How to reach me:Cihanhayta8080@gmail.com.
-🤭 I love learning new things and software
+- 🤭 I love learning new things and software
 
 
